@@ -45,11 +45,11 @@ const Fonts = {
 };
 
 const Icons = {
-    // loading: require('@assets/icons/loading.gif'),
+    loading: require('@assets/icons/loading.gif'),
 };
 
 const Images = {
-    // logo: require('@assets/images/logo.png'),
+    logo: require('@assets/images/logo.png'),
 }
 
 export {
